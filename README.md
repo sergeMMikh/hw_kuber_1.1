@@ -66,7 +66,12 @@
 3. Сгенерировать сертификат для подключения к внешнему ip-адресу.
 
 **Решение**
-<img src="images/Task_1.1.png" alt="Task_0_1.png" width="400" height="auto"></br>
+
+Установил MicroK8S</br>
+<img src="images/Task_1.1.png" alt="Task_1_1.png" width="400" height="auto"></br>
+
+Установил dashboard</br>
+<img src="images/Task_1.2.png" alt="Task_1_2.png" width="400" height="auto"></br>
 
 ------
 
