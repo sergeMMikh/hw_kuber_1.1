@@ -1,0 +1,9 @@
+# Create a file named admin-user-token.yaml and add the following content
+apiVersion: v1
+kind: Secret
+metadata:
+  name: admin-user-token
+  namespace: kube-system
+  annotations:
+    kubernetes.io/service-account.name: admin-user
+type: kubernetes.io/service-account-token
